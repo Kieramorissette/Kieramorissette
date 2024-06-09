@@ -21,8 +21,6 @@ Feel free to connect with me on my social media platforms or check out my projec
 - [![Twitter](https://img.shields.io/badge/Twitter-@DigitalDarling-blue?style=flat-square&logo=twitter)](https://twitter.com/DigitalDarling)
 - [![Instagram](https://img.shields.io/badge/Instagram-@DigitalDarling-pink?style=flat-square&logo=instagram)](https://instagram.com/DigitalDarling)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DigitalDarling&color=blue)
-
 ---
 
 ### 📌 Pinned Projects
@@ -48,7 +46,7 @@ I believe in the power of continuous learning and self-improvement. Every new sk
 ---
 
 ### 📫 How to Reach Me
-You can reach me via [email](mailto:kmoriss5@asu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/kiera-morissette).
+You can reach me via [email](mailto:kmoriss5@asu.edu) 
 
 ---
 
