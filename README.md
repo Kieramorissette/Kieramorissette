@@ -15,12 +15,6 @@ I'm particularly interested in the intersection of technology and business, espe
 - **Web Development** 🌐
 - **Coding and Software Development** 👩‍💻
 
-## 🌟 Connect with Me
-Feel free to connect with me on my social media platforms or check out my projects here on GitHub!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiera%20Morissette-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiera-morissette)
-- [![Twitter](https://img.shields.io/badge/Twitter-@DigitalDarling-blue?style=flat-square&logo=twitter)](https://twitter.com/DigitalDarling)
-- [![Instagram](https://img.shields.io/badge/Instagram-@DigitalDarling-pink?style=flat-square&logo=instagram)](https://instagram.com/DigitalDarling)
-
 ---
 
 ### 📌 Pinned Projects
