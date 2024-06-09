@@ -26,9 +26,9 @@ Feel free to connect with me on my social media platforms or check out my projec
 ---
 
 ### 📌 Pinned Projects
-1. [**Online Store**](https://github.com/DigitalDarling/online-store) - A fully-functional e-commerce website.
-2. [**Personal Portfolio**](https://github.com/DigitalDarling/portfolio) - My personal portfolio showcasing my skills and projects.
-3. [**Python Automation Scripts**](https://github.com/DigitalDarling/automation-scripts) - A collection of scripts to automate various tasks.
+1. [**Online Store**] - A fully-functional e-commerce website.
+2. [**Personal Portfolio**] - My personal portfolio showcasing my skills and projects.
+3. [**Python Automation Scripts**] - A collection of scripts to automate various tasks.
 
 ---
 
@@ -48,7 +48,7 @@ I believe in the power of continuous learning and self-improvement. Every new sk
 ---
 
 ### 📫 How to Reach Me
-You can reach me via [email](mailto:kiera.morissette@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kiera-morissette).
+You can reach me via [email](mailto:kmoriss5@asu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/kiera-morissette).
 
 ---
 
