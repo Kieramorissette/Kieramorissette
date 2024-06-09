@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🌟 Kiera Morissette
+🎓 Arizona State University
+📚 Passionate about learning, always discovering new things
+🔍 Interested in online business and programming
 <!--
 **Kieramorissette/Kieramorissette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
