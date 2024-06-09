@@ -34,13 +34,27 @@ I'm particularly interested in the intersection of technology and business, espe
 
 ---
 
-### ✨ Fun Fact
-I believe in the power of continuous learning and self-improvement. Every new skill learned is a step forward in the journey of life.
+#### 💼 Tools and Technologies
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=wordpress&logoColor=white)
+  
+---
 
+### ✨ Fun Fact
+- I believe in the power of continuous learning and self-improvement. Every new skill learned is a step forward in the journey of life.
+- I love exploring new technologies and applying them to solve real-world problems.
+- I’m an avid reader and enjoy books on technology and entrepreneurship.
 ---
 
 ### 📫 How to Reach Me
 You can reach me via [email](mailto:kmoriss5@asu.edu) 
+
+---
+
+### 💡 Inspirational Quote
+>"The only way to do great work is to love what you do." – *Steve Jobs*
 
 ---
 
