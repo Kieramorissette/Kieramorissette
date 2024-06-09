@@ -1,5 +1,4 @@
-## Hi there 👋
-🌟 Kiera Morissette
+## Hi there 👋, I'm Kiera Morissette a.k.a Digital Darling
 🎓 Arizona State University
 📚 Passionate about learning, always discovering new things
 🔍 Interested in online business and programming
