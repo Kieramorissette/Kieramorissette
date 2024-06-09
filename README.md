@@ -1,18 +1,55 @@
-## Hi there 👋, I'm Kiera Morissette a.k.a Digital Darling
-🎓 Arizona State University
-📚 Passionate about learning, always discovering new things
-🔍 Interested in online business and programming
-<!--
-**Kieramorissette/Kieramorissette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Kiera Morissette a.k.a Digital Darling
 
-Here are some ideas to get you started:
+![Welcome](https://img.shields.io/badge/Welcome-Digital--Darling-ff69b4?style=flat-square&logo=welcome&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Arizona State University
+I'm currently studying at Arizona State University, where I’m expanding my knowledge and honing my skills in various fields.
+
+## 📚 Passionate About Learning
+Learning is a lifelong journey, and I'm constantly on the lookout for new things to discover and explore.
+
+## 🔍 Interested in Online Business and Programming
+I'm particularly interested in the intersection of technology and business, especially in the realms of online business and programming. Here are a few areas I’m passionate about:
+- **E-commerce** 💻
+- **Digital Marketing** 📈
+- **Web Development** 🌐
+- **Coding and Software Development** 👩‍💻
+
+## 🌟 Connect with Me
+Feel free to connect with me on my social media platforms or check out my projects here on GitHub!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiera%20Morissette-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiera-morissette)
+- [![Twitter](https://img.shields.io/badge/Twitter-@DigitalDarling-blue?style=flat-square&logo=twitter)](https://twitter.com/DigitalDarling)
+- [![Instagram](https://img.shields.io/badge/Instagram-@DigitalDarling-pink?style=flat-square&logo=instagram)](https://instagram.com/DigitalDarling)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DigitalDarling&color=blue)
+
+---
+
+### 📌 Pinned Projects
+1. [**Online Store**](https://github.com/DigitalDarling/online-store) - A fully-functional e-commerce website.
+2. [**Personal Portfolio**](https://github.com/DigitalDarling/portfolio) - My personal portfolio showcasing my skills and projects.
+3. [**Python Automation Scripts**](https://github.com/DigitalDarling/automation-scripts) - A collection of scripts to automate various tasks.
+
+---
+
+### 🛠️ Technologies & Tools
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### ✨ Fun Fact
+I believe in the power of continuous learning and self-improvement. Every new skill learned is a step forward in the journey of life.
+
+---
+
+### 📫 How to Reach Me
+You can reach me via [email](mailto:kiera.morissette@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kiera-morissette).
+
+---
+
+![Footer](https://img.shields.io/badge/-Made%20with%20❤️%20by%20Kiera%20Morissette-red?style=flat-square)
