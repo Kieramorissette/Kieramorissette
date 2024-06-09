@@ -26,9 +26,9 @@ Feel free to connect with me on my social media platforms or check out my projec
 ---
 
 ### 📌 Pinned Projects
-1. [**Online Store**] - A fully-functional e-commerce website.
-2. [**Personal Portfolio**] - My personal portfolio showcasing my skills and projects.
-3. [**Python Automation Scripts**] - A collection of scripts to automate various tasks.
+1. **Online Store** - A fully-functional e-commerce website.
+2.  **Personal Portfolio**- My personal portfolio showcasing my skills and projects.
+3. **Python Automation Scripts** - A collection of scripts to automate various tasks.
 
 ---
 
